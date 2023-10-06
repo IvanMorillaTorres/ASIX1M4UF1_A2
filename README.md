@@ -28,10 +28,12 @@
     | Google Meet|![Imagen de calendar](https://github.com/IvanMorillaTorres/ASIX1M4UF1_A2/blob/main/Portatil.png "Portatil")|
     |...|...|
 
+
 6.¿Qué es ```HTML``` ?
 
 
-    Respuesta
+Respuesta
+
 
 
         ```
@@ -48,9 +50,11 @@
             </html>
         ```
 
-        
+
 7.¿Qué es ```CSS```?
 
+
     Respuesta.
+
 
 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
