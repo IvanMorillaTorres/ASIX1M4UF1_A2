@@ -29,7 +29,11 @@
     |...|...|
 
 6.¿Qué es ```HTML``` ?
+
+
     Respuesta
+
+
         ```
             <!DOCTYPE html>
             <html lang="en">
@@ -43,6 +47,8 @@
             </body>
             </html>
         ```
+
+        
 7.¿Qué es ```CSS```?
 
     Respuesta.
