@@ -21,16 +21,16 @@
 
     | Aplicaciones  | Visto |
     |---------------|-------|
-    | Google Docs | ![Imagen de calendar](https://github.com/IvanMorillaTorres/ASIX1M4UF1_A2/blob/main/checkblanco.png "checkblanco") |
+    | Google Docs | ![Imagen de calendar](https://github.com/IvanMorillaTorres/ASIX1M4UF1_A2/blob/main/checkblanco.png "checkblanco")|
     | Google Slides|![Imagen de calendar](https://github.com/IvanMorillaTorres/ASIX1M4UF1_A2/blob/main/checkblanco.png "checkblanco")|
     | Google Sheets|![Imagen de calendar](https://github.com/IvanMorillaTorres/ASIX1M4UF1_A2/blob/main/checkblanco.png "checkblanco")|
     | Google Calendar|![Imagen de calendar](https://github.com/IvanMorillaTorres/ASIX1M4UF1_A2/blob/main/calendar.png "Calendario")|
-    | Google Meet|![Imagen de calendar](https://github.com/IvanMorillaTorres/ASIX1M4UF1_A2/blob/main/Portatil.png "Portatil") |
-    |... |...|
+    | Google Meet|![Imagen de calendar](https://github.com/IvanMorillaTorres/ASIX1M4UF1_A2/blob/main/Portatil.png "Portatil")|
+    |...|...|
 
-6.¿Qué es ´´´HTML´´´ ?
+6.¿Qué es ```HTML``` ?
     Respuesta
-        ´´´
+        ```
             <!DOCTYPE html>
             <html lang="en">
             <head>
@@ -40,11 +40,10 @@
                 <title>Document</title>
             </head>
             <body>
-
             </body>
             </html>
-        ´´´
-7.¿Qué es ´´´CSS´´´?
+        ```
+7.¿Qué es ```CSS```?
 
     Respuesta.
 
